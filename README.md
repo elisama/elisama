@@ -10,15 +10,7 @@
 - 📫 How to reach me: elisamaufrj@gmail.com
 - ⚡ Fun fact: my bedside book is "clean code"
 
-<Html>
-  <head>
-    <scritp src="script.js">
-    </scritp>
- </head>
- <body onload="myFunction()">
-    <p id="showDate"></p>
-  </body>
-</Html>
+
 <!--
 **elisama/elisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
