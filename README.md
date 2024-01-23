@@ -5,7 +5,7 @@
   - Private project on lotteries;
   - Private project on astronomy;
   - Private project on financial setups;
-- 🌱 I’m currently learning 
+<!-- - 🌱 I’m currently learning -->
 - 👯 I’m looking to collaborate on financial institution
 - 📫 How to reach me: elisamaufrj@gmail.com
 - ⚡ Fun fact: my bedside book is "clean code"
