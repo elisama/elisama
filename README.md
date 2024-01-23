@@ -15,7 +15,7 @@
     <scritp src="js/script.js">
     </scritp>
  </head>
- <body>
+ <body onload="myFunction()">
     <p id="showDate"></p>
   </body>
 </Html>
