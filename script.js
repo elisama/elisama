@@ -1,3 +1,4 @@
 function myFunction() {
-        document.getElementById("showDate").innerHTML = "Iframe is loaded.";
+        const d = new Date();
+        document.getElementById("showDate").innerHTML = d.toString();;
 }
