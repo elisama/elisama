@@ -10,9 +10,13 @@
 - 📫 How to reach me: elisamaufrj@gmail.com
 - ⚡ Fun fact: my bedside book is "clean code"
 
-<Html>
+<Html onload="myScript">
+  <span id="showDate"></span>
   <scritp>
-    
+    function myScript{
+      const d = new Date("2021-03-25");
+      document.getElementById("demo").innerHTML = d.getFullYear();
+    }
   </scritp>
 </Html>
 <!--
