@@ -12,7 +12,7 @@
 
 <Html>
   <head>
-    <scritp src="js/script.js">
+    <scritp src="script.js">
     </scritp>
  </head>
  <body onload="myFunction()">
